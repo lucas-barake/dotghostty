@@ -38,3 +38,4 @@ keybind = cmd+six=goto_tab:6
 keybind = cmd+seven=goto_tab:7
 keybind = cmd+eight=goto_tab:8
 keybind = cmd+nine=goto_tab:9
+keybind = ctrl+enter=text:\x1b[13;5u
