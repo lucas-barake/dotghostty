@@ -1,5 +1,9 @@
 font-family = Monaspace Argon Var
-font-size = 18
+font-size = 20
+font-thicken = true
+font-thicken-strength = 200 
+font-variation = wght=400
+font-variation-bold = wght=600
 macos-option-as-alt = true
 window-padding-x = 4
 window-padding-y = 4
